@@ -35,5 +35,9 @@ plugins/plimits
 plugins/localnews
 plugins/hints
 plugins/dmca
+
+#idea
 .idea/*
 *.iml
+*.ipr
+*.iws
