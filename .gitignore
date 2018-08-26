@@ -12,6 +12,7 @@ share/torrents/*
 share/settings/*
 plugins/xirvik
 .htpasswd
+.htaccess
 plugins/shoutbox
 plugins/backup
 plugins/news
@@ -42,3 +43,4 @@ plugins/autodl-irssi
 *.iml
 *.ipr
 *.iws
+/.htaccess
