@@ -17,7 +17,6 @@ plugins/shoutbox
 plugins/backup
 plugins/news
 plugins/_xgetdir
-plugins/spectrogram
 plugins/xcreate
 plugins/explorer
 plugins/multirpc
@@ -37,10 +36,18 @@ plugins/localnews
 plugins/hints
 plugins/dmca
 plugins/autodl-irssi
+plugins/xnfo/
+plugins/xshoutbox/
+plugins/donecolor/
+plugins/filebot/
+plugins/hashblock/
+plugins/ratiocolor/
+plugins/repeat/
+plugins/set_title/
+php/commands.lst
 
 #idea
 .idea/*
 *.iml
 *.ipr
 *.iws
-/.htaccess
